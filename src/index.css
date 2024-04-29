@@ -11,3 +11,25 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+svg {
+  fill: white;
+  stroke: white;
+  stroke-width: 1;
+}
+
+input {
+  padding-left: 1em;
+}
+
+button {
+  height: fit-content;
+}
+
+.rounded {
+  border-radius: 25px !important;
+}
+
+.completed {
+  text-decoration: line-through;
+}
