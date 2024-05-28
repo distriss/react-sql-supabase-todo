@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# React SQL todo app
 
-Simple todo app using CRA and Supabase sql
+My first SQL app - Simple todo app using CRA and Supabase SQL
 
